@@ -1,0 +1,8 @@
+/**
+ * 
+ */
+/**
+ * @author Krone
+ *
+ */
+package JavaTestProgramm;
